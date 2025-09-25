@@ -1,0 +1,19 @@
+Setup the following technologies:
+Frontend
+1) React and vite.
+2) Tailwind CSS.
+
+Backend
+1) Node.js with Express.
+2) SQLite.
+
+Authentication and authorization
+1) JWT.
+
+State Management
+1) Zustard or Redux Toolkit.
+
+Other tools
+1) TypeScript.
+2) Prisma.
+
